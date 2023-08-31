@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jerry-react/static/css/main.1306b2a8.css",
+    "main.js": "/jerry-react/static/js/main.b4c80792.js",
+    "static/js/787.ef34336b.chunk.js": "/jerry-react/static/js/787.ef34336b.chunk.js",
+    "static/media/2.png": "/jerry-react/static/media/2.294d59b66b94e0e456cf.png",
+    "static/media/1.png": "/jerry-react/static/media/1.e4424517383d14a03a24.png",
+    "index.html": "/jerry-react/index.html",
+    "main.1306b2a8.css.map": "/jerry-react/static/css/main.1306b2a8.css.map",
+    "main.b4c80792.js.map": "/jerry-react/static/js/main.b4c80792.js.map",
+    "787.ef34336b.chunk.js.map": "/jerry-react/static/js/787.ef34336b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1306b2a8.css",
+    "static/js/main.b4c80792.js"
+  ]
+}
